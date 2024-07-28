@@ -20,3 +20,25 @@ git log
 git branch
 
 '''
+print(f"this is the 5th commit")
+
+# working with branches
+'''
+
+git branch
+git branch dev
+git log
+git branch
+
+'''
+'''
+
+# changing branches
+'''
+git switch
+git checkout 
+'''
+print(f"this is 6th commit")
+
+#merging
+print("v4")
