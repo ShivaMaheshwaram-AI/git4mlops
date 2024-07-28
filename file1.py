@@ -11,3 +11,12 @@ git status
 git log
 '''
 print(f"this is the 5th commit")
+
+'''
+
+git branch
+git branch dev
+git log
+git branch
+
+'''
