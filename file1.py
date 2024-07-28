@@ -28,3 +28,6 @@ git switch
 git checkout 
 '''
 print(f"this is 6th commit")
+
+#merging
+print("v4")
