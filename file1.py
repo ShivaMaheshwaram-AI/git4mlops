@@ -10,3 +10,4 @@ git commit -m "message for the commit"
 git status
 git log
 '''
+print(f"this is the 5th commit")
